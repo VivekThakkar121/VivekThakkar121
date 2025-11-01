@@ -25,14 +25,13 @@
 ---
 
 ## 🌱 Currently Exploring
-- Communication protocols such as IEEE 1588 PTP    
+- Communication protocols such as IEEE 1588 PTP
 - RISC-V Architecture and Custom ISA Design
-- Physical Design Flow (Placement & Routing fundamentals)
-
-[![GitHub](https://img.shields.io/badge/GitHub-VivekThakkar121-black?style=for-the-badge&logo=github)](https://github.com/VivekThakkar121)  
+- Physical Design Flow (Placement & Routing fundamentals)    
 
 ---
 
-## 📊 GitHub Stats  
+## 📫 Connect with Me  
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekThakkar121&show_icons=true&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek%20Thakkar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vivek-thakkar-39b2a9323/)  
+[![GitHub](https://img.shields.io/badge/GitHub-VivekThakkar121-black?style=for-the-badge&logo=github)](https://github.com/VivekThakkar121)  
