@@ -29,11 +29,6 @@
 - RISC-V Architecture and Custom ISA Design
 - Physical Design Flow (Placement & Routing fundamentals)
 
----
-
-## 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek%20Thakkar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vivek-thakkar-39b2a9323/)  
 [![GitHub](https://img.shields.io/badge/GitHub-VivekThakkar121-black?style=for-the-badge&logo=github)](https://github.com/VivekThakkar121)  
 
 ---
