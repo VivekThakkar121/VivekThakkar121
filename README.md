@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Vivek Thakkar  
 
-<!--
-**VivekThakkar121/VivekThakkar121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building efficient and reliable digital systems through hardware design and FPGA prototyping.  
+🎓 **M.Tech (VLSI Design)** @ National Institute of Technology Karnataka (NITK)  
+🎓 **B.Tech (Electronics & Communication Engineering)** @ SVNIT, Surat  
+💡 Passionate about **Digital Design, FPGA Implementation, and VLSI System Architecture**  
+🔧 Skilled in **Verilog, SystemVerilog, Cadence Virtuoso, Vivado, NGSPICE, and shell scripting**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Projects
+- 🧩 **5-Stage Pipelined MIPS Processor** — Implemented in SystemVerilog with hazard detection & forwarding units.  
+- ⚙️ **8×8 Wallace Tree Multiplier** — Structural HDL design and FPGA implementation using Vivado.  
+- ⚡ **8-bit Manchester Carry Chain Adder** — Full-custom adder layout and simulation using Cadence Virtuoso.  
+- 🧠 **IEEE 1588 PTP MAC Engine (Internship)** — Verified and automated the PTP design workflow using Vivado and shell scripting.  
+
+---
+
+## 🧰 Technical Skills
+**Languages:** Verilog, SystemVerilog, Embedded C, C/C++, Python  
+**EDA Tools:** Cadence Virtuoso, Vivado, Quartus, NGSPICE, Keil, Proteus  
+**Hardware Platforms:** Basys-3 FPGA, DE10-SoC  
+**Concepts:** Digital Design, CMOS Circuits, Timing Analysis, SoC Architecture  
+
+---
+
+## 🌱 Currently Exploring
+- Communication protocols such as IEEE 1588 PTP    
+- RISC-V Architecture and Custom ISA Design
+- Physical Design Flow (Placement & Routing fundamentals)
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek%20Thakkar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vivek-thakkar-39b2a9323/)  
+[![GitHub](https://img.shields.io/badge/GitHub-VivekThakkar121-black?style=for-the-badge&logo=github)](https://github.com/VivekThakkar121)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekThakkar121&show_icons=true&theme=tokyonight)
